@@ -23,8 +23,8 @@ Run the Python file and select an option from the ATM menu.
 You can create a PIN, deposit money, withdraw money, and check your balance.
 
 ## Outcome
-Class
-Object
-Constructor
+Class,
+Object,
+Constructor,
 Self
 
